@@ -2,7 +2,7 @@
 
 This is a code repository for the SIB - Swiss Institute of Bioinformatics CALIPHO group neXtProt project
 
-See: http://www.nextprot.org/
+See: https://www.nextprot.org/
 
 # neXtProt hierarchic heatmap table component
 
@@ -112,7 +112,7 @@ Check out this page for a better understanding of how to use the hierarchic heat
 
 <img src="/assets/NextportDemo.png" width="100%" />
 
-It is possible to fill the hierarchic heatmap table with protein features from [NeXtProt](https://search.nextprot.org/), the human protein database.   
+It is possible to fill the hierarchic heatmap table with protein features from [neXtProt](https://www.nextprot.org/), the human protein database.   
 
 - First, find your protein of interest in NeXtProt and get the neXtProt accession (NX_...). (You can find your protein by entering an accession number of another database, like UniProt or Ensembl)   
 - Include the hierarchic heatmap table bundle with nextprot to your html  : hierarchic-heatmap-table.nextprot.js
